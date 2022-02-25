@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Atul's%20GitHub%20Profile%20&fontSize=45)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Atul.
 
-### My interesets are Web Developement, Competitive Programming and DSA. Currently 3rd year undergraduate at IIT (PKD), Palakkad.
+### My interesets are Data Sience,Web Developement, Competitive Programming and DSA. Currently 3rd year undergraduate at IIT (PKD), Palakkad.
 [![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiwari-is-kira)](https://github.com/anuraghazra/github-readme-stats)
 ### You can find me on:
 
